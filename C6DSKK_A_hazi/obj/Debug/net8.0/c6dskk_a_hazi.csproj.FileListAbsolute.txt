@@ -1,0 +1,17 @@
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\c6dskk_a_hazi.exe
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\c6dskk_a_hazi.deps.json
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\c6dskk_a_hazi.runtimeconfig.json
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\c6dskk_a_hazi.dll
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\c6dskk_a_hazi.pdb
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.csproj.AssemblyReference.cache
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.AssemblyInfoInputs.cache
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.AssemblyInfo.cs
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.csproj.CoreCompileInputs.cache
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a.006E46A2.Up2Date
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.dll
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\refint\c6dskk_a_hazi.dll
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.pdb
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\c6dskk_a_hazi.genruntimeconfig.cache
+C:\Users\HajFej\Desktop\C6DSKK_A_hazi\obj\Debug\net8.0\ref\c6dskk_a_hazi.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HajFej\\source\\repos\\c6dskk_a_hazi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25A31EA-9729-4779-BE0A-E283B4DA19CE}|c6dskk_a_hazi.csproj|c:\\users\\hajfej\\source\\repos\\c6dskk_a_hazi\\athletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25A31EA-9729-4779-BE0A-E283B4DA19CE}|c6dskk_a_hazi.csproj|solutionrelative:athletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25A31EA-9729-4779-BE0A-E283B4DA19CE}|c6dskk_a_hazi.csproj|c:\\users\\hajfej\\source\\repos\\c6dskk_a_hazi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25A31EA-9729-4779-BE0A-E283B4DA19CE}|c6dskk_a_hazi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Athletes.cs",
+              "DocumentMoniker": "C:\\Users\\HajFej\\source\\repos\\c6dskk_a_hazi\\Athletes.cs",
+              "RelativeDocumentMoniker": "Athletes.cs",
+              "ToolTip": "C:\\Users\\HajFej\\source\\repos\\c6dskk_a_hazi\\Athletes.cs",
+              "RelativeToolTip": "Athletes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:09:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HajFej\\source\\repos\\c6dskk_a_hazi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HajFej\\source\\repos\\c6dskk_a_hazi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIAwwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:53:31.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
